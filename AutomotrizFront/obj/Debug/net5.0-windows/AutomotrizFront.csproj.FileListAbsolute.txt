@@ -1,0 +1,261 @@
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmAltaFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmAltaFactura.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmAltaFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaVehiculo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta1.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta2.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta3.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.FrmConsulta4.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta5.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta6.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta7.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta8.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaVehiculo.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta1.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta2.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta3.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.FrmConsulta4.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta5.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta6.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta7.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta8.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.Properties.Resources.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaVehiculo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta1.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta2.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta3.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.FrmConsulta4.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta5.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta6.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta7.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta8.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmPagDesarrollo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.Properties.Resources.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaFactura.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaVehiculo.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta1.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta2.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta3.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.FrmConsulta4.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta5.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta6.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta7.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta8.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmPagDesarrollo.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\bin\Debug\net5.0-windows\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta1.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta2.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta3.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.FrmConsulta4.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta5.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta6.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta7.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta8.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmPagDesarrollo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmAltaVehiculo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmBajaVehiculo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsulta.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmConsultaFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmLogin.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmMenu.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizApp.formularios.frmMenuProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmModificarFactura.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmModificarVehiculo.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.frmProgramacion.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.Properties.Resources.resources
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\ref\AutomotrizFront.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizFront\obj\Debug\net5.0-windows\AutomotrizFront.genruntimeconfig.cache

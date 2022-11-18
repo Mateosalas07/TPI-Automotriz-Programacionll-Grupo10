@@ -1,0 +1,11 @@
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\bin\Debug\AutomotrizApp.exe.config
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\bin\Debug\AutomotrizApp.exe
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\bin\Debug\AutomotrizApp.pdb
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.Properties.Resources.resources
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.GenerateResource.cache
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.exe
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.pdb
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.frmConsulta.resources
+C:\Users\Mateo\source\repos\AutomotrizApp\AutomotrizApp\obj\Debug\AutomotrizApp.frmMenu.resources

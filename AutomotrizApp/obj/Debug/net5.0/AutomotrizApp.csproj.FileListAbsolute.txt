@@ -1,0 +1,76 @@
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\ref\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\AutomotrizApp\obj\Debug\net5.0\AutomotrizApp.pdb

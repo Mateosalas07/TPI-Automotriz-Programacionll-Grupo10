@@ -1,0 +1,233 @@
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Laboratorio Computacional ll\AutomotrizApp\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+C:\Users\nacho\TECNICATURA\2Do Cuatri\programacion\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\appsettings.Development.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\appsettings.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.exe
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.deps.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.runtimeconfig.dev.json
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\bin\Debug\net5.0\AutomotrizApp.dll.config
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.AssemblyReference.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfoInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.AssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CoreCompileInputs.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cs
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.MvcApplicationPartsAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.Manifest.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\staticwebassets\ApiAutomotriz.StaticWebAssets.xml
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\scopedcss\bundle\ApiAutomotriz.styles.css
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.RazorTargetAssemblyInfo.cache
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.csproj.CopyComplete
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ref\ApiAutomotriz.dll
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.pdb
+D:\Mateo\Documents\tecnicatura en programacion\1° - 2° Semestre 2022\Programación ll\GIT\TPI-Programacion-ll\ApiAutomotriz\obj\Debug\net5.0\ApiAutomotriz.genruntimeconfig.cache
