@@ -29,7 +29,7 @@ namespace AutomotrizFront
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.cboItem = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
             this.txtTotal = new System.Windows.Forms.TextBox();
@@ -50,7 +50,6 @@ namespace AutomotrizFront
             this.label2 = new System.Windows.Forms.Label();
             this.lblFactura = new System.Windows.Forms.Label();
             this.lblSeleccion = new System.Windows.Forms.Label();
-            this.cboClientes = new System.Windows.Forms.ComboBox();
             this.lblCantidad = new System.Windows.Forms.Label();
             this.btnGuardar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -190,9 +189,9 @@ namespace AutomotrizFront
             // 
             // precioCol
             // 
-            dataGridViewCellStyle1.Format = "C3";
-            dataGridViewCellStyle1.NullValue = null;
-            this.precioCol.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.Format = "C3";
+            dataGridViewCellStyle3.NullValue = null;
+            this.precioCol.DefaultCellStyle = dataGridViewCellStyle3;
             this.precioCol.HeaderText = "Precio";
             this.precioCol.MinimumWidth = 6;
             this.precioCol.Name = "precioCol";
@@ -278,15 +277,6 @@ namespace AutomotrizFront
             this.lblSeleccion.TabIndex = 31;
             this.lblSeleccion.Text = "Seleccione el Articulo a Comprar";
             // 
-            // cboClientes
-            // 
-            this.cboClientes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cboClientes.FormattingEnabled = true;
-            this.cboClientes.Location = new System.Drawing.Point(373, 112);
-            this.cboClientes.Name = "cboClientes";
-            this.cboClientes.Size = new System.Drawing.Size(188, 28);
-            this.cboClientes.TabIndex = 33;
-            // 
             // lblCantidad
             // 
             this.lblCantidad.AutoSize = true;
@@ -316,6 +306,7 @@ namespace AutomotrizFront
             this.btnCancelar.TabIndex = 37;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // cboFormaPago
             // 
@@ -354,6 +345,8 @@ namespace AutomotrizFront
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(941, 768);
             this.Controls.Add(this.txtCliente);
             this.Controls.Add(this.cboFormaPago);
@@ -361,7 +354,6 @@ namespace AutomotrizFront
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.lblCantidad);
-            this.Controls.Add(this.cboClientes);
             this.Controls.Add(this.lblSeleccion);
             this.Controls.Add(this.cboItem);
             this.Controls.Add(this.label6);
@@ -405,7 +397,6 @@ namespace AutomotrizFront
         private System.Windows.Forms.Label lblFactura;
         private System.Windows.Forms.DateTimePicker dtFecha;
         private System.Windows.Forms.Label lblSeleccion;
-        private System.Windows.Forms.ComboBox cboClientes;
         private System.Windows.Forms.Label lblCantidad;
         private System.Windows.Forms.DataGridViewTextBoxColumn idProdCol;
         private System.Windows.Forms.DataGridViewTextBoxColumn colArt;

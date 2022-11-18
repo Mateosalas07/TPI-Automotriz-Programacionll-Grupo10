@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\AutomotrizFront.csproj": {}
+    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\AutomotrizFront.csproj": {}
   },
   "projects": {
-    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj": {
+    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj",
+        "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj",
         "projectName": "AutomotrizApp",
-        "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj",
+        "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj",
         "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
-        "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\obj\\",
+        "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\AutomotrizFront.csproj": {
+    "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\AutomotrizFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\AutomotrizFront.csproj",
+        "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\AutomotrizFront.csproj",
         "projectName": "AutomotrizFront",
-        "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\AutomotrizFront.csproj",
+        "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\AutomotrizFront.csproj",
         "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
-        "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\obj\\",
+        "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj": {
-                "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj"
+              "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj": {
+                "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj"
               }
             }
           }

@@ -29,7 +29,11 @@ namespace AutomotrizFront
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Dispose();
+            if (MessageBox.Show("Se perderan los datos no guardados. Salir?",
+            "SALIR", MessageBoxButtons.YesNo, MessageBoxIcon.Stop,
+            MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+                this.Close();
+            
         }
 
         private async void button1_Click(object sender, EventArgs e)
@@ -57,6 +61,7 @@ namespace AutomotrizFront
 
 
             await GuardarVehiculoAsync();
+            this.Close();
 
 
 

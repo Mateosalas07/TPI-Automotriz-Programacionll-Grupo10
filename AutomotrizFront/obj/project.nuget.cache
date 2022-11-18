@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xXtLWn+SDqjwNQMyWxjTt5dknvZ3/vHRO05Dd4GUqhGwed1LR3V4zCve0XhLMWlpWdFZjZda9XwJF55/zdPfdw==",
+  "dgSpecHash": "zaAADdOH29JjP4lUFO80N+mw0f1i9aCUeBsqGXpmU8sd7SGvaewVKIz9F9+2F74sU5fy0q2EGLsuZ+/j0JbS7w==",
   "success": true,
-  "projectFilePath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizFront\\AutomotrizFront.csproj",
+  "projectFilePath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizFront\\AutomotrizFront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

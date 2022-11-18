@@ -33,6 +33,11 @@ namespace AutomotrizFront
             this.BtnEditar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.dgvFacturas = new System.Windows.Forms.DataGridView();
+            this.colNro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colFecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colCliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colTotal = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colFechabaja = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtCliente = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -41,11 +46,6 @@ namespace AutomotrizFront
             this.dtpHasta = new System.Windows.Forms.DateTimePicker();
             this.dtpDesde = new System.Windows.Forms.DateTimePicker();
             this.btnConsultar = new System.Windows.Forms.Button();
-            this.colNro = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colFecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colCliente = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colTotal = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colFechabaja = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFacturas)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -83,6 +83,7 @@ namespace AutomotrizFront
             this.btnSalir.TabIndex = 5;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // dgvFacturas
             // 
@@ -104,6 +105,46 @@ namespace AutomotrizFront
             this.dgvFacturas.Size = new System.Drawing.Size(811, 354);
             this.dgvFacturas.TabIndex = 6;
             this.dgvFacturas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFacturas_CellContentClick);
+            // 
+            // colNro
+            // 
+            this.colNro.HeaderText = "Nro Factura";
+            this.colNro.MinimumWidth = 6;
+            this.colNro.Name = "colNro";
+            this.colNro.ReadOnly = true;
+            this.colNro.Width = 125;
+            // 
+            // colFecha
+            // 
+            this.colFecha.HeaderText = "Fecha";
+            this.colFecha.MinimumWidth = 6;
+            this.colFecha.Name = "colFecha";
+            this.colFecha.ReadOnly = true;
+            this.colFecha.Width = 125;
+            // 
+            // colCliente
+            // 
+            this.colCliente.HeaderText = "Cliente";
+            this.colCliente.MinimumWidth = 6;
+            this.colCliente.Name = "colCliente";
+            this.colCliente.ReadOnly = true;
+            this.colCliente.Width = 125;
+            // 
+            // colTotal
+            // 
+            this.colTotal.HeaderText = "Total";
+            this.colTotal.MinimumWidth = 6;
+            this.colTotal.Name = "colTotal";
+            this.colTotal.ReadOnly = true;
+            this.colTotal.Width = 125;
+            // 
+            // colFechabaja
+            // 
+            this.colFechabaja.HeaderText = "Fecha Baja";
+            this.colFechabaja.MinimumWidth = 6;
+            this.colFechabaja.Name = "colFechabaja";
+            this.colFechabaja.ReadOnly = true;
+            this.colFechabaja.Width = 125;
             // 
             // groupBox1
             // 
@@ -187,46 +228,6 @@ namespace AutomotrizFront
             this.btnConsultar.Text = "Consultar";
             this.btnConsultar.UseVisualStyleBackColor = true;
             this.btnConsultar.Click += new System.EventHandler(this.btnConsultar_Click);
-            // 
-            // colNro
-            // 
-            this.colNro.HeaderText = "Nro Factura";
-            this.colNro.MinimumWidth = 6;
-            this.colNro.Name = "colNro";
-            this.colNro.ReadOnly = true;
-            this.colNro.Width = 125;
-            // 
-            // colFecha
-            // 
-            this.colFecha.HeaderText = "Fecha";
-            this.colFecha.MinimumWidth = 6;
-            this.colFecha.Name = "colFecha";
-            this.colFecha.ReadOnly = true;
-            this.colFecha.Width = 125;
-            // 
-            // colCliente
-            // 
-            this.colCliente.HeaderText = "Cliente";
-            this.colCliente.MinimumWidth = 6;
-            this.colCliente.Name = "colCliente";
-            this.colCliente.ReadOnly = true;
-            this.colCliente.Width = 125;
-            // 
-            // colTotal
-            // 
-            this.colTotal.HeaderText = "Total";
-            this.colTotal.MinimumWidth = 6;
-            this.colTotal.Name = "colTotal";
-            this.colTotal.ReadOnly = true;
-            this.colTotal.Width = 125;
-            // 
-            // colFechabaja
-            // 
-            this.colFechabaja.HeaderText = "Fecha Baja";
-            this.colFechabaja.MinimumWidth = 6;
-            this.colFechabaja.Name = "colFechabaja";
-            this.colFechabaja.ReadOnly = true;
-            this.colFechabaja.Width = 125;
             // 
             // frmConsultaFactura
             // 

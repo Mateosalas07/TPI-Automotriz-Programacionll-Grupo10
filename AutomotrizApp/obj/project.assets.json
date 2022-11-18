@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj",
+      "projectUniqueName": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj",
       "projectName": "AutomotrizApp",
-      "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\AutomotrizApp.csproj",
+      "projectPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\AutomotrizApp.csproj",
       "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
-      "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\AutomotrizApp\\obj\\",
+      "outputPath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\AutomotrizApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",

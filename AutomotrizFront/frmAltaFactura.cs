@@ -266,5 +266,12 @@ namespace AutomotrizFront
             cboArticulos.ValueMember = "AutoParteNro";
         }
 
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Seguro que desea salir, se perdera los datos ingresados ?",
+            "SALIR", MessageBoxButtons.YesNo, MessageBoxIcon.Stop,
+            MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+                this.Close();
+        }
     }
 }

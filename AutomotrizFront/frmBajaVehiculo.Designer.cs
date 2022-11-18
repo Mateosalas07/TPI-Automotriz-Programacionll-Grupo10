@@ -144,6 +144,8 @@ namespace AutomotrizFront
             // lblCodigo
             // 
             this.lblCodigo.AutoSize = true;
+            this.lblCodigo.BackColor = System.Drawing.Color.Transparent;
+            this.lblCodigo.ForeColor = System.Drawing.Color.White;
             this.lblCodigo.Location = new System.Drawing.Point(44, 312);
             this.lblCodigo.Name = "lblCodigo";
             this.lblCodigo.Size = new System.Drawing.Size(147, 20);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oR5IQu1YnVujzjYDsJuXuw2ShJniqeapy23AKoAKilziSUnkTtpVogxzx9kZevEj9j2VEPA0Gi89MZEZvdq2YA==",
+  "dgSpecHash": "Pur26W+H4oENOQqKp5mF2Jj0Uyt9IYSf3PWEetNrS7cX+Wrz+wmyHYzdPf4mAy2/wuxt5E1+MRZKQi9a/bPE8A==",
   "success": true,
-  "projectFilePath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\TPI-Programacion-ll\\ApiAutomotriz\\ApiAutomotriz.csproj",
+  "projectFilePath": "D:\\Mateo\\Documents\\tecnicatura en programacion\\1° - 2° Semestre 2022\\Programación ll\\GIT\\git\\ApiAutomotriz\\ApiAutomotriz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Mateo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

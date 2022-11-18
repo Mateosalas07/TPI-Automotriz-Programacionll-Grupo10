@@ -105,5 +105,13 @@ namespace AutomotrizFront
                 MessageBox.Show("ERROR. No se pudo actualizar los datos del vehículo.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Se perderan los cambios no guardados. Salir de la aplicación ?",
+            "SALIR", MessageBoxButtons.YesNo, MessageBoxIcon.Stop,
+            MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+                this.Close();
+        }
     }
 }
