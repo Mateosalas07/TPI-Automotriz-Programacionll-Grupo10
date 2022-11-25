@@ -111,9 +111,7 @@ namespace AutomotrizFront
             string url = "https://localhost:5001/Clientes";
             var result = await ClientSingleton.GetInstance().GetAsync(url);
             var lst = JsonConvert.DeserializeObject<List<Clientes>>(result);
-            cboClientes.DataSource = lst;
-            cboClientes.ValueMember = "cod_cliente";
-            cboClientes.DisplayMember = "Nombre";
+            
             
 
         }

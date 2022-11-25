@@ -18,7 +18,7 @@ namespace AutomotrizFront
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMenuProgramacion());
+            Application.Run(new frmLogin());
         }
     }
 }
